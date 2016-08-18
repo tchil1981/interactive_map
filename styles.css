@@ -1,0 +1,280 @@
+@font-face
+{
+    font-family: HelveticaNeueReg;
+    src: url(fonts/HelveticaNeue.ttf)
+}
+
+
+body{font-family: HelveticaNeueReg}
+
+div:focus
+{
+   outline:  #F300A9;
+   border: 2px solid  #F300A9;
+}
+
+.boxInfo
+{
+    width: 20%;
+    height: auto;
+    min-height: 700px;
+    max-height: 700px;
+    max-width: 450px;
+    background-color: white;
+    position: absolute;
+    border-top: 1px solid #F300A9;
+    border-right: 1px solid #F300A9;
+    border-bottom: 1px solid #F300A9;
+    border-radius: 10px;
+    padding: 10px;
+    opacity: 0;
+    box-shadow:  #F300A9;
+
+    text-align: left;
+    
+    font-family:HelveticaNeueReg;
+
+    font-size: 15px;
+    color: #727376;
+
+    overflow: auto;
+}
+
+
+.boxInfo img
+{
+    display: block;
+    width: 90%;
+    height: auto;
+    margin: .5em;
+}
+
+canvas
+{
+    left: 0%;
+    top: 0%;
+    position: absolute;
+    cursor: pointer;
+    border-left: 1px solid #F300A9;
+    border-right: 1px solid #F300A9;
+    border-bottom: 1px solid #F300A9;
+    border-radius: 10px;
+
+
+}
+
+
+.footer
+{
+    font-size: 11px;
+    margin: 1em;
+}
+
+.navigation
+{
+    position: absolute;
+    width:40%;
+    height: 5%;
+    opacity: 0;
+    
+}
+
+.menu
+{
+    vertical-align: middle;
+    width:1366px;
+}
+
+.btn
+{
+    display:  inline-block;
+    vertical-align: middle;
+    width: 45%;
+
+    color: #727376;
+    border-left: 1px solid #F300A9;
+    border-right: 1px solid #F300A9;
+    border-top: 1px solid #F300A9;
+
+    border-radius: 10px;
+
+    font-family: HelveticaNeueReg;
+
+    font-weight: bold;
+    padding: 2%;
+    
+    text-align: center;
+
+    background-color: white;
+
+    cursor: pointer;
+    
+}
+
+
+.place
+{
+    font-weight: bold;
+
+    margin: 1em;
+}
+
+.info
+{
+    margin: 1em;
+    font-size: 15px;
+  
+}
+
+.close
+{
+    position: absolute;
+    font-size: 15px;
+    font-weight: bold;
+    color: #F300A9;
+    padding: 8px;
+    cursor: pointer;
+    opacity: 0;
+}
+
+.town
+{
+    position: absolute;
+    background-color: #FFFFFF;
+    color: #727376;
+    border-left: 1px solid #F300A9;
+    border-right: 1px solid #F300A9;
+    border-top: 1px solid #F300A9;
+
+    font-family: HelveticaNeueReg;
+
+    font-weight: bold;
+    padding: 1%;
+
+
+    text-align: center;
+
+
+    cursor: pointer;
+
+    opacity: 0;
+
+}
+
+
+
+div::-webkit-scrollbar {
+    width: .7em;
+}
+ 
+div::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+}
+ 
+div::-webkit-scrollbar-thumb {
+  background-color: #DEDEDE;
+  outline: 1px solid slategrey;
+  border-radius: 5px;
+ 
+  
+}
+
+
+
+div::-moz-scrollbar {
+    width: .7em;
+}
+ 
+div::-moz-scrollbar-track {
+    -moz-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+}
+ 
+div::-moz-scrollbar-thumb {
+  background-color: #DEDEDE;
+  outline: 1px solid slategrey;
+  border-radius: 5px;
+ 
+  
+}
+
+.tooltip
+{
+    padding: .5em;
+    background-color: #F300A9;
+    font-size: 11px;
+    font-family: HelveticaNeueReg;
+    cursor: pointer;
+    text-align: center;
+    color: #FFFFFF;
+    font-weight: bold;
+    position: absolute
+   
+}
+
+
+.instructions
+{
+    padding: .5em;
+    background-color: #FFFFFF;
+    color: #727376;
+    border-left: 1px solid #F300A9;
+    border-right: 1px solid #F300A9;
+    border-top: 1px solid #F300A9;
+
+    font-family: HelveticaNeueReg;
+
+    width: 45%;
+}
+
+
+.instructions div
+{
+    margin: .5em
+}
+
+.proceed
+{
+    width: 95%;
+    text-align: right;
+    padding: .5em;
+    color: white;
+    font-weight: bold;
+
+}
+
+.proceed span
+{
+    background-color: #F300A9;
+    padding: .5em;
+    cursor: pointer;
+}
+
+.zoom
+{
+    width: 53px;
+    height:54px;
+    background:none;
+    cursor: pointer;
+}
+
+.pin
+{
+    width: 20px;
+    height: 20px;
+    background-color: transparent;
+    opacity: 0;
+}
+
+.pin:focus
+{
+    border: none;
+}
+
+.loadIndicator
+{
+    font-size: 18px;
+    color:#F300A9;
+    font-weight: bold; 
+}
+
+

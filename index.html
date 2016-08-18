@@ -1,0 +1,203 @@
+<!--
+	NOTES:
+	1. All tokens are represented by '$' sign in the template.
+	2. You can write your code only wherever mentioned.
+	3. All occurrences of existing tokens will be replaced by their appropriate values.
+-->
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>index</title>
+<!-- write your code here -->
+
+<link href="styles.css" rel="stylesheet"  type="text/css"/>
+<script src="https://code.createjs.com/createjs-2015.11.26.min.js"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.19.0/plugins/CSSPlugin.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.19.0/easing/EasePack.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.19.0/TweenLite.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.19.0/TweenMax.min.js"></script>
+<script src="index.js"></script>
+<script>
+
+var canvas, stage, exportRoot;
+
+function init() {
+	// --- write your JS code here ---
+	
+	canvas = document.canvas = document.getElementById("canvas");
+	images = images||{};
+
+	var loader = new createjs.LoadQueue(true);
+	loader.addEventListener("fileload", handleFileLoad);
+	loader.addEventListener("complete", handleComplete);
+	loader.loadManifest(lib.properties.manifest);
+}
+
+
+document.addEventListener('DOMContentLoaded', onLoaded)
+
+function onLoaded(event)
+{
+	var element = document.getElementById('container');
+
+	    element.focus();
+
+	
+}
+
+
+
+
+
+
+function handleFileLoad(evt) {
+	if (evt.item.type == "image") { images[evt.item.id] = evt.result; }
+}
+
+function handleComplete(evt) {
+	exportRoot = new lib.index();
+
+	stage = document.stage = new createjs.Stage(canvas);
+	stage.addChild(exportRoot);
+	stage.update();
+
+	createjs.Ticker.setFPS(lib.properties.fps);
+	createjs.Ticker.addEventListener("tick", stage);
+
+	createjs.Touch.enable(stage);
+
+
+
+
+	//Code to support hidpi screens and responsive scaling.
+	(function(isResp, respDim, isScale, scaleType) {		
+		var lastW, lastH, lastS=1;		
+		window.addEventListener('resize', resizeCanvas);		
+		//resizeCanvas();		
+		function resizeCanvas() {			
+			var w = lib.properties.width, h = lib.properties.height;			
+			var iw = window.innerWidth, ih=window.innerHeight;			
+			var pRatio = window.devicePixelRatio, xRatio=iw/w, yRatio=ih/h, sRatio=1;			
+			if(isResp) {                
+				if((respDim=='width'&&lastW==iw) || (respDim=='height'&&lastH==ih)) {                    
+					sRatio = lastS;                
+				}				
+				else if(!isScale) {					
+					if(iw<w || ih<h)						
+						sRatio = Math.min(xRatio, yRatio);				
+				}				
+				else if(scaleType==1) {					
+					sRatio = Math.min(xRatio, yRatio);				
+				}				
+				else if(scaleType==2) {					
+					sRatio = Math.max(xRatio, yRatio);				
+				}			
+			}			
+			canvas.width = w*pRatio*sRatio;			
+			canvas.height = h*pRatio*sRatio;
+			canvas.style.width = w*sRatio+'px';			
+			canvas.style.height = h*sRatio+'px';
+			stage.scaleX = pRatio*sRatio;			
+			stage.scaleY = pRatio*sRatio;			
+			lastW = iw; lastH = ih; lastS = sRatio;		
+
+
+			console.log(stage.scaleX, stage.scaleY, pRatio)
+
+			
+		}
+	})(false,'both',false,1);
+}
+
+
+
+
+</script>
+
+<!-- write your code here -->
+
+</head>
+<body onload="init();" style="background-color:#ffffff;margin:0px; overflow:hidden" tabindex="-1">
+
+	<div style="position:relative;" tabindex="2" id="container"> 
+	
+	<canvas id="canvas"  style="background-color:#ffffff;" width ="1366px" height="768px"></canvas>
+
+	
+	<div class="town" id="town"></div>
+
+	<div class="navigation" id="navigation">
+
+		<div class="btn" id="btn0" tabindex="5">Early Modern London Locations</div>
+		<div class="btn" id="btn1" tabindex="6">Theatre Timeline</div>
+	</div>
+
+	<div id="boxInfo" class="boxInfo" tabindex="3"></div>
+
+	<div class="close" id="close" tabindex="4">close</div>
+
+	</div>
+
+	<div class="tooltip" id='tooltip' tabindex="50" ></div>
+
+	<div class="instructions" id="instructions" tabindex="7">
+		<div>Look at our interactive map to find out about early modern London and her theatres. There are two tabs to explore:</div>
+		<div><b>Early Modern London Locations</b><br>
+		Select the pins on the map to find out about key locations in early modern London. Details of the locations will appear in the panel on the left of the map.</div>
+		<div><b>Theatre Timeline</b><br>
+		Slowly drag the slider across the bottom of the map to see when theatres appeared in early modern London. Details of the locations will appear in the panel on the left of the map.</div>
+
+		<div>You can zoom in and out of the map using the +/- icons in the top right, and once zoomed, you can drag the map to pan.</div>
+		<div><b>Please note that the pins show approximate locations for these early modern London venues.</b></div>
+	
+	<div class="proceed"><span id="proceed" tabindex="8">Got it!</span></div>
+	</div>
+
+	<div class="zoom" id="in"  tabindex="9"></div>
+	<div class="zoom" id="out" tabindex="10"></div>
+
+	<div class="pin" id="p1" tabindex="11"></div>
+	<div class="pin" id="p2" tabindex="12"></div>
+	<div class="pin" id="p3" tabindex="13"></div>
+	<div class="pin" id="p4" tabindex="14"></div>
+	<div class="pin" id="p5" tabindex="15"></div>
+	<div class="pin" id="p6" tabindex="16"></div>
+	<div class="pin" id="p7" tabindex="17"></div>
+	<div class="pin" id="p8" tabindex="18"></div>
+	<div class="pin" id="p9" tabindex="19"></div>
+	<div class="pin" id="p10" tabindex="20"></div>
+	<div class="pin" id="p11" tabindex="22"></div>
+	<div class="pin" id="p12" tabindex="23"></div>
+	<div class="pin" id="p13" tabindex="24"></div>
+	<div class="pin" id="p14" tabindex="25"></div>
+	<div class="pin" id="p15" tabindex="26"></div>
+	<div class="pin" id="p16" tabindex="27"></div>
+	<div class="pin" id="p17" tabindex="28"></div>
+	<div class="pin" id="p18" tabindex="29"></div>
+	<div class="pin" id="p19" tabindex="30"></div>
+	<div class="pin" id="p20" tabindex="31"></div>
+	<div class="pin" id="p21" tabindex="32"></div>
+	<div class="pin" id="p22" tabindex="33"></div>
+	<div class="pin" id="p23" tabindex="34"></div>
+	<div class="pin" id="p24" tabindex="35"></div>
+	<div class="pin" id="p25" tabindex="36"></div>
+	<div class="pin" id="p26" tabindex="37"></div>
+	<div class="pin" id="p27" tabindex="38"></div>
+	<div class="pin" id="p28" tabindex="39"></div>
+	<div class="pin" id="p29" tabindex="40"></div>
+	<div class="pin" id="p30" tabindex="41"></div>
+	<div class="pin" id="p31" tabindex="42"></div>
+	<div class="pin" id="p32" tabindex="43"></div>
+	<div class="pin" id="p33" tabindex="44"></div>
+	<div class="pin" id="p34" tabindex="45"></div>
+	<div class="pin" id="p35" tabindex="46"></div>
+	<div class="pin" id="p36" tabindex="47"></div>
+	<div class="pin" id="p37" tabindex="48"></div>
+	<div class="pin" id="p38" tabindex="49"></div>
+	
+	
+</body>
+</html>

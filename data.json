@@ -1,0 +1,585 @@
+{
+  "Whitehall":
+  
+    {
+      "place":"Whitehall",
+      "info":
+      "<div class='place'>Whitehall<\/div> <div class='info'>The Palace of Whitehall was the main residence of English monarchs from the reign of Henry VIII until 1698 when a fire destroyed vast areas of the property. Both Elizabeth I and James I lived, and held court, at Whitehall during their reigns, and as such it was the centre of political power in early modern London. As well as being a political base Whitehall also served as a venue for royal entertainment, with plays and masques being held at regular intervals to mark special occasions and events. Shakespeare is known to have written, and acted in, a number of plays which were staged for royal and aristocratic audiences at Whitehall, including a performance of Love’s Labour’s Lost during the Christmas celebrations of 1597. <\/div>  <div class='image'><img src='images\/image.jpg' alt=''\/><\/div><div class='footer'>By Tbmurray - Own work, CC BY 3.0, <a href='https://commons.wikimedia.org/w/index.php?curid=18503079 '> https://commons.wikimedia.org/w/index.php?curid=18503079<\/a><\/div>",
+     
+      "image":"images\/image.jpg"
+    },
+    
+    
+    "Westminster":
+  
+    {
+      "place":"Westminster",
+
+     "info":
+      "<div class='place'>Westminster<\/div> <div class='info'>Westminster Edward the Confessor (1042-1066) built Westminster Palace and Westminster Abbey as an alternative royal residence outside of London. The Palace was used by reigning monarchs until 1512 when a fire made it uninhabitable. The Lords used to meet in Westminster Palace and after 1547 the Commons met there too, which is how it became the Houses of Parliament. Every monarch since William the Conqueror has been crowned in Westminster Abbey (apart from Edward V and Edward VIII), and the Abbey is also the site of many monarchs' burial. <\/div>  <div class='image'><img src='images\/image1.jpg' alt=''\/><\/div><div class='footer'>By Daniel Bron - Own work, CC BY 3.0, <a href='https://commons.wikimedia.org/w/index.php?curid=18503079 '>https://commons.wikimedia.org/w/index.php?curid=28119380<\/a><\/div>",
+
+      "image":"image url"
+    },
+
+
+
+
+     
+    "the_strand":
+  
+    {
+      "place":"The Strand",
+
+     "info":
+      "<div class='place'>The Strand<\/div> <div class='info'>The aristocracy and members of the royal family built their London residences on the Strand, in order to be close to the Royal Court at Whitehall and Parliament in Westminster. These huge palaces were erected in order to allow their owners access to the river, which was the main means of movement to and from the City or Court. The current Savoy building was originally a monastery but later became the palace of John Gaunt, Duke of Lancaster, and features in Shakespeare's Richard II.  <\/div>  <div class='image'><img src='images\/image2.jpg' alt=''\/><\/div><div class='footer'>By Chris Whippet, CC BY-SA 2.0, <a href='https://commons.wikimedia.org/w/index.php?curid=13992543 '>https://commons.wikimedia.org/w/index.php?curid=13992543 <\/a><\/div>",
+
+      "image":"image url"
+    },
+
+
+
+
+
+    "somerset_house":
+  
+    {
+      "place":"Somerset House",
+
+     "info":
+      "<div class='place'>Somerset House<\/div> <div class='info'>Somerset House was planned and built by the Duke of Somerset, Edward Seymour, while he acted as Lord Protector for his nephew Edward VI. Somerset House was completed in 1551, but was passed to the crown upon the Duke's execution for treason in January 1552. Princess Elizabeth, the future Elizabeth I, lived here from 1553 until her ascension to the throne in 1558. After Elizabeth's death Somerset House was became the residence of Ann of Denmark, James I's Queen. She renamed the palace Denmark House, and made it one of the great centres of art and performance in early modern London. <\/div>  <div class='image'><img src='images\/image3.jpg' alt=''\/><\/div><div class='footer'>By Peter Trimming, CC BY-SA 2.0,  <a href='https://commons.wikimedia.org/w/index.php?curid=13877020  '>https://commons.wikimedia.org/w/index.php?curid=13877020  <\/a><\/div>",
+
+      "image":"image url"
+    },
+
+
+   
+
+     
+    "lambeth_place":
+  
+    {
+      "place":"Lambeth Palace",
+
+     "info":
+      "<div class='place'>Lambeth Palace<\/div> <div class='info'>Lambeth Palace has been the London residence of the Archbishop of Canterbury for almost 800 years. The Palace is ideally placed and would have provided archbishops in the sixteenth and seventeenth centuries with exceptional access to Westminster and the Royal Court at Whitehall. Both the Archbishop of Canterbury and the Archbishop of London were heavily involved in the censorship of the press during Shakespeare's lifetime, and as such Lambeth Palace now holds a unique collection of banned books and printed material from the period.  <\/div>",
+
+      "image":"image url"
+    },
+
+
+
+     "st_paul_s":
+  
+    {
+      "place":"St. Paul's<br>(1575-c. 1590; 1599-1606)",
+
+     "info":
+      "<div class='place'>St. Paul's<\/div> <div class='info'>The Queen's Revels Office organized entertainment that included bringing adult playing companies, as well as groups of young choristers from local parishes to come and perform at court. The Master of the Children Choristers at St. Paul's, Sebastian Westcott, began to charge admission to watch the court rehearsals, and eventually established a commercial venue at St. Paul's Cathedral, probably in the almonry. Westcott and his successors at St. Paul's would have been aware of the challenges of performing plays in the small space, and would have eschewed loud musical instruments like the trumpet or drum used in outdoor spaces. Music would play a central role in many of the Children of St. Paul's productions, as the boys would have been trained as singers and musicians. In the 1580s, they were associated with the playwright John Lyly, but after he embroiled them in a scandal, they were banned from performing until 1599, when they became popular again for performing often satirical plays about London city-life.<\/div>  <div class='image'><img src='images\/image4.jpg' alt=''\/><\/div><div class='footer'> By Kunstlerbob (Robert Bauer) - Own work, also on www.robert-bauer.eu, CC BY-SA 3.0,  <a href='https://commons.wikimedia.org/w/index.php?curid=16989245 '>https://commons.wikimedia.org/w/index.php?curid=16989245  <\/a><\/div>",
+
+      "image":"image url",
+      "v1":1599,
+      "v2":1606
+    },
+
+
+
+
+
+     "st_paul_s_church":
+  
+    {
+      "place":"St. Paul's Church",
+
+     "info":
+      "<div class='place'>St. Paul's Church<\/div> <div class='info'>St Paul's Church, as it was known in Shakespeare's time, was the religious centre of the City of London. It was a landmark that would have dominated the London skyline, despite reportedly losing its spire after being struck by lightening in 1566, one hundred years prior to its destruction in the Great Fire of London. Not only was St Paul's the religious heart of the city, but it was also home to book sellers, and printers, who had their shops in the churchyard, as such St Paul's was synonymous with the book trade in the early modern period.  <\/div>  <div class='image'><img src='images\/image4.jpg' alt=''\/><\/div><div class='footer'> By Kunstlerbob (Robert Bauer) - Own work, also on www.robert-bauer.eu, CC BY-SA 3.0,  <a href='https://commons.wikimedia.org/w/index.php?curid=16989245 '>https://commons.wikimedia.org/w/index.php?curid=16989245  <\/a><\/div>",
+
+      "image":"image url"
+    },
+
+
+
+
+
+   
+     "inns_of_court":
+  
+    {
+      "place":"Inns of Court",
+
+     "info":
+      "<div class='place'>Inns of Court<\/div> <div class='info'>During the early modern period the Inns of Court were a place of learning for young upper class men, and as such a thriving social and theatrical scene was created at this location. Shakespeare would have visited and performed there. There is evidence to suggest that one performance of The Comedy of Errors, staged in the Inner Temple, was apparently so shambolic that the night's festivities were ever after referred to as 'The Night of Errors'.  <\/div>  <div class='image'><img src='images\/image5.jpg' alt=''\/><\/div><div class='footer'>By Matt Brown - http://www.flickr.com/photos/londonmatt/4272503062, CC BY 2.0, <a href='https://commons.wikimedia.org/w/index.php?curid=37880088'>https://commons.wikimedia.org/w/index.php?curid=37880088 <\/a><\/div>",
+
+      "image":"image url"
+    },
+
+
+
+
+
+     "bethelm_hospital_off_map":
+  
+    {
+      "place":"Bethlem Hospital AKA Bedlam",
+
+     "info":
+      "<div class='place'>Bethlem Hospital AKA Bedlam<\/div> <div class='info'>Bethlem Hospital has operated as a hospital, and alms house, since the mid-thirteenth century. The nickname Bedlam, which has become synonymous with lunacy, madness and the deterioration of society, came into popular use in the sixteenth century and was compounded by the portrayal of Bethlem Hospital and unnamed mental asylums in plays of the Jacobean and Caroline period. These included many works written by Shakespeare's contemporaries, such as The Honest Whore, Part 1 (1604) by Dekker and Middleton, Northward Ho! (1607) Dekker and Webster, The Duchess of Malfi (1612) Webster, and Bartholomew Fair (1614) Jonson. <\/div>",
+
+      "image":"image url"
+    },
+
+
+     "tower_of_london":
+  
+    {
+      "place":"Tower of London",
+
+     "info":
+      "<div class='place'>Tower of London <\/div> <div class='info'>In Shakespeare's time the Tower of London was a symbol of royal and political power, and it was a longstanding tradition that monarchs spent the night before their coronation in the Tower. It was also associated with royal control, and the punitive rights a monarch could exercise against the highest in the land. Elizabeth I had been imprisoned there by her sister Mary Tudor before she became Queen, and her mother, Anne Boleyn, was beheaded at the Tower (which is depicted in Shakespeare's Henry VIII). Shakespeare would have been aware of the execution of the Earl of Essex at the Tower in 1601 for treason, as Essex had paid Shakespeare and the Globe Theatre an inordinate amount to stage a revival of Richard II, in which a weak king is deposed seemingly for the common good of the nation. The intention was to stir up rebellious sentiment among the London public, which failed and led to the downfall of the Earl of Essex. <\/div>  <div class='image'><img src='images\/image6.jpg' alt=''\/><\/div><div class='footer'>By Crux - selbst fotografiert; analog, später gescannt, mit GIMP farbkorrigiert., CC BY-SA 2.5, <a href='https://commons.wikimedia.org/w/index.php?curid=707070 '>https://commons.wikimedia.org/w/index.php?curid=707070<\/a><\/div>",
+
+      "image":"image url"
+    },
+
+
+     "roman_walls_gates":
+  
+    {
+      "place":"The Roman City Walls and Gates",
+
+     "info":
+      "<div class='place'>The Roman City Walls and Gates<\/div> <div class='info'> The old City of London was enclosed with a thick defensive wall in circa. 200 AD by the Roman settlers, and served as the city boundaries throughout the medieval age until the population and scope of the city outgrew it in the early modern period. The seven city gates in use during Shakespeare's life were: Aldersgate, Aldgate, Bishopsgate, Cripplegate, Ludgate, Moorgate and Newgate. These gates were large multi-story stone buildings which acted as checkpoints into and out of the City, and, during this period, Ludgate and <\/div>  <div class='image'><img src='images\/image7.jpg' alt=''\/><\/div><div class='footer'>By Mariordo (Mario Roberto Duran Ortiz) - Own work, CC BY-SA 3.0, <a href='https://commons.wikimedia.org/w/index.php?curid=23514032'>https://commons.wikimedia.org/w/index.php?curid=23514032<\/a><\/div>",
+
+      "image":"image url"
+    },
+
+
+
+ 
+     "newgate":
+  
+    {
+      "place":"Newgate Prison",
+
+     "info":
+      "<div class='place'>Newgate Prison<\/div> <div class='info'> Newgate was built by the Romans as one of the five original gates into the City of London (two more were added during the medieval period), and records of it being used as a prison can be reliably traced back to the early 1200s. It was the main London prison for serious criminals in Shakespeare's era. Newgate housed criminals sentenced to death, and the morbid procession to the scaffold at Tyburn would start from Newgate Prison. <\/div>  <div class='image'><img src='images\/image8.jpg' alt=''\/><\/div><div class='footer'>By Sphilbrick - Own work, CC BY 3.0, <a href='https://commons.wikimedia.org/w/index.php?curid=11870410'> https://commons.wikimedia.org/w/index.php?curid=11870410<\/a><\/div>",
+
+      "image":"image url"
+    },
+
+
+   
+
+
+    
+     "Tyburn_off_map":
+  
+    {
+      "place":"Tyburn",
+
+     "info":
+      "<div class='place'> Tyburn   <\/div> <div class='info'> Tyburn was the site of public executions in London for 600 years, and is said to be at the current location of Marble Arch in West London. Criminals were originally killed by hanging on a row of elm tress, but midway through Elizabeth I's reign these were replaced by the infamous Tyburn Tree, a huge triangular wooden structure built to facilitate the execution of up to 24 prisoners at a time. The condemned would be transported from Newgate Prison in an open wagon, via Snow Hill, across Holborn down Broad St Giles into Oxford Street and on to Tyburn. Enthusiastic spectators would follow the procession, which only ceased in 1783 when the state moved executions to Newgate Prison because the rowdy crowds were disturbing the peace on the increasingly fashionable Oxford Street.   <\/div>  <div class='image'><img src='images\/image9.jpg' alt=''\/><\/div><div class='footer'> By Steve F-E-Cameron - Own work, CC BY-SA 3.0,  <a href='https://commons.wikimedia.org/w/index.php?curid=2985760 '>https://commons.wikimedia.org/w/index.php?curid=2985760  <\/a><\/div>",
+
+      "image":"image url"
+    },
+
+
+
+
+    
+     "cheapside":
+  
+    {
+      "place":"Cheapside",
+
+     "info":
+      "<div class='place'>Cheapside<\/div> <div class='info'>Cheapside stretches from St Paul's in the West to the old City of London in the East, and is credited as being one of London's main shopping streets for the past millennia. The name is derived from the Saxon word 'chepe' meaning market, and would have been home to all manner of trades and businesses throughout its history. The surrounding streets still maintain the names of trades that flourished there: Wood Street, Milk Street, Bread Street, Honey Lane, Poultry and Friday Street (for fish). By the sixteenth century the area had become famous as the centre of the gold and jewellery business in London. Underneath the hustle and bustle of the mercantile hub and the fantastic spectacle of processions and pageantry in Cheapside, lay a dark underbelly of petty crime, prostitution and punishment in Early Modern London. The near-bye sanctuary of St. Martin’s-le-Grande provided refuge from the law for professional criminals, and grand processions and pageants such as the Lord Mayor’s Day provided the raucous atmosphere ideal for pick-pocketing (Tames, 67). Shakespeare would have been familiar with the area's history and reputation as he used Cheapside as the location for several bawdy scenes in Henry IV, Part I.<\/div>  <div class='image'><img src='images\/image14.jpg' alt=''\/><\/div><div class='footer'>  - By Tbmurray - Own work, CC BY 3.0, <a href='https://commons.wikimedia.org/w/index.php?curid=18501769'>https://commons.wikimedia.org/w/index.php?curid=18501769<\/a><\/div>",
+
+      "image":"image url"
+    },
+
+
+     "silver_street":
+  
+    {
+      "place":"Silver Street",
+
+     "info":
+      "<div class='place'>Silver Street<\/div> <div class='info'>In 1604 Shakespeare rented lodgings with Christopher and Mary Mountjoy on Silver Street in Cripplegate at the northern edge of the old City of London. The Mountjoys were a family of French Huguenot refugees, and they maintained a successful business making women's headdresses and wigs. In 1612 Shakespeare became embroiled in a family dispute between the Mountjoy's and their son-in-law over the matter of their daughter's dowry, which resulted in a court case. Shakespeare was called upon to act as material witness, and the signature on his statement is one of only six surviving, verifiable, examples of his handwriting.<\/div><\/div>",
+
+      "image":"image url"
+    },
+
+
+     "thames":
+  
+    {
+      "place":"Thames",
+
+     "info":
+      "<div class='place'>Thames<\/div> <div class='info'>The River Thames was a major transport link in Shakespearean London as the city was the largest port in England. Sailing ships sailed to quays just before London Bridge and there were also smaller boats on the river owned by watermen for transporting people along the Thames. Monarchs, the aristocracy and wealthy townspeople had their own barges. The Thames teemed with fish like salmon, trout, perch, flounder and beam, and as such provided livelihoods and sustenance for many Londoners. During the early modern period the Thames would often freeze over for up to two months at a time, allowing for Thames Frost Fairs to pop up. These would have made for quite a spectacle - the enterprising Londoners set up food stalls, markets, pubs, ice skating rinks, and even football pitches!<\/div>  <div class='image'><img src='images\/image11.jpg' alt=''\/><\/div><div class='footer'>  - By Stefan Oemisch - Own work, CC BY-SA 3.0,  <a href='https://commons.wikimedia.org/w/index.php?curid=41503976'>https://commons.wikimedia.org/w/index.php?curid=41503976<\/a><\/div>",
+
+      "image":"image url"
+    },
+    
+    
+     "london_bridge":
+  
+    {
+      "place":"London Bridge",
+
+     "info":
+      "<div class='place'>London Bridge<\/div> <div class='info'>London Bridge was the primary means of pedestrian crossing over the Thames, with the alternative being private boats or ferries. During Shakespeare's lifetime the bridge would have been crowded by shops, market stalls and homes and would have made for a busy, often chaotic, crossing from the City of London to the playhouses and entertainments on the Southbank. London Bridge was also used by the authorities to display the heads of the most infamous traitors; including Sir Thomas More, Guy Fawkes and Oliver Cromwell.<\/div>  <div class='image'><img src='images\/image12.jpg' alt=''\/><\/div><div class='footer'>  - By Bernard Gagnon - Own work, CC BY-SA 3.0, <a href='https://commons.wikimedia.org/w/index.php?curid=3634927'>https://commons.wikimedia.org/w/index.php?curid=3634927<\/a><\/div>",
+
+      "image":"image url"
+    },
+
+
+
+
+     "bankside":
+  
+    {
+      "place":"Bankside/Southbank",
+
+     "info":
+      "<div class='place'>Bankside/Southbank<\/div> <div class='info'>In the Elizabethan period Bankside, the area on the south side of the Thames that stretches from Blackfriars to London Bridge, was outside of the strict jurisdiction of the City of London. As such this area became the home to entertainment which had been deemed too risqué by the authorities in the City. As well as the traditional whorehouses, bull and bear baiting arenas were staple fixtures in Bankside, and as commercial playhouses were legalised they began to spring up by the river; these included the Rose, the Hope Theatre, the Swan and Shakespeare's Globe Theatre.<\/div>  <div class='image'><img src='images\/image10.jpg' alt=''\/><\/div><div class='footer'>  - By Tony Hisgett from Birmingham, UK - SouthbankUploaded by tm, CC BY 2.0, <a href='https://commons.wikimedia.org/w/index.php?curid=27908735'> <\/a><\/div>",
+
+      "image":"image url"
+    },
+
+
+     "the_globe":
+  
+    {
+      "place":"The Globe<br>(1599-1613; 1614-1642)",
+
+     "info":
+      "<div class='place'>The Globe<\/div> <div class='info'>In Christmas 1598 The Chamberlain's Men (who would become the King's Men under James I's patronage), and the company to which Shakespeare belonged, sought a drastic solution to their lack of a permanent playhouse. They leased a plot near the Rose, a rival theatre in Southwark, demolished their original theatre and carried its timbers over the river. By early 1599 the new Globe Theatre was up and running and for 14 years it thrived, presenting many of Shakespeare’s greatest plays. In 1613, during a performance of Henry VIII, wadding from a stage cannon ignited the thatched roof and the theatre burned to the ground. The theatre was quickly rebuilt, this time with a tiled roof. The new structure remained the home for Shakespeare’s old company until the closure of all the theatres under England’s Puritan administration in 1642. No longer of use, it was demolished to make room for tenements in 1644.<\/div>  <div class='image'><img src='images\/image13.jpg' alt=''\/><\/div><div class='footer'>By MyName (Pricejb (talk)) - Own work, Public Domain, <a href='https://commons.wikimedia.org/w/index.php?curid=7632520'>https://commons.wikimedia.org/w/index.php?curid=7632520<\/a><\/div>",
+
+      "image":"image url",
+      "v1":1614,
+      "v2":1642
+    },
+
+
+
+     "the_first_blackfriars":
+  
+    {
+      "place":"First Blackfriars<br>(1576-84)",
+
+     "info":
+      "<div class='place'>First Blackfriars<\/div> <div class='info'>Located on the site of an old Dominican monastery, meaning it was exempt from the jurisdiction of local authorities, the First Blackfriars was established by Richard Farrant in 1576. Like Sebastian Westcott, he was a choirmaster for the Children of the Chapel Royal who sought to charge admission to watch performances, under the conceit that the performances were just 'rehearsals'. The small theatre would eventually be controlled by the playwright John Lyly, who installed Henry Evans as the manager of Oxford's Boys, a troupe performing at Blackfriars composed of boys from both Children of the Chapel Choir and Children of Paul's. Due to a dispute over the lease at Blackfriars, playing was ordered to cease at the location in 1584.<\/div><\/div>",
+
+      "image":"image url",
+      "v1":1576,
+      "v2":1584
+    },
+
+
+
+     "blackfriars":
+  
+    {
+      "place":"Blackfriars",
+
+     "info":
+      "<div class='place'>Blackfriars<\/div> <div class='info'>Blackfriars was the location of two popular theatres during the early modern period. The first theatre began as a venue for the Children of the Chapel Royal, child actors associated with the Queen's chapel choirs who from 1576 to 1584 staged plays in the vast hall in the former monastery on the Blackfriars site. From 1599 a new Blackfriars theatre staged plays by boy actors and from 1609 to 1642 it was the only indoor theatre of the King's Men, Shakespeare's company. From 1609 onwards Shakespeare’s company were able to switch between playing at the indoors Blackfriars theatre in winter, and in summer to perform outdoors at the Globe<\/div><\/div>",
+
+      "image":"image url"
+    },
+
+
+
+    
+
+
+
+
+
+
+    "the_cockpit":
+  
+    {
+      "place":"The Cockpit or Phoenix<br>(1616/17-mid 1660s)",
+
+     "info":
+      "<div class='place'>The Cockpit or Phoenix<\/div> <div class='info'> The Cockpit, or the Phoenix theatre was built near Drury Lane, just outside city jurisdiction, on the site of an old cockfighting pit in 1616 by theatre manager Christopher Beeston. Beeston brought the Queen Anne's Men from the Red Bull to his new indoor playing venue, a move which apparently offended local apprentices who patronized the Red Bell, as they retaliated by attempting to burn down the Cockpit in 1617. Beeston paid to fix the damage to the Cockpit, and renamed it the Phoenix when it opened. The Cockpit/Phoenix had a very successful ten-year run with Queen Henrietta's Men beginning in 1625, and they were rivals to the King's Men for court performances at the time.   <\/div>",
+
+      "image":"image url",
+      "v1":1617,
+      "v2":1660
+    },
+
+
+    "whitefriars":
+  
+    {
+      "place":"Whitefriars<br>(1606-1614)",
+
+     "info":
+      "<div class='place'>Whitefriars<\/div> <div class='info'>Whitefriars was a liberty district, to the west of London's city limits as well as being a notable red-light district. The priory where the theatre was constructed was leased by Michael Drayton and Thomas Woodford and the theatre hosted the Children of the Queen's Revels after 1609. The children's company was notorious for its raunchy productions, including Ben Jonson's tale of sexual misadventure Epicene, and John Marston's The Insatiate Countess. In 1614 the lease for Whitefriars was lost, and what little evidence remains of playing at Whitefriars seems to cease entirely after 1616.  <\/div>",
+
+      "image":"image url",
+      "v1":1606,
+      "v2":1614
+    },
+
+
+
+
+
+
+    "salisbury_court":
+  
+    {
+      "place":"Salisbury Court<br>(1629/30-1666)",
+
+     "info":
+      "<div class='place'>Salisbury Court<\/div> <div class='info'>The last of the playhouses to be built before the theatre closures of 1642, Salisbury Court was located in the Salisbury neighbourhood, so named because the Earl of Salisbury used to call the area his home. There is a record of a new playhouse being built outside the western walls of the city, and it is thought that after its construction in 1629 various playing companies rotated through the venue, including Prince Charles' Men, the King's Revels Men, and Queen Henrietta's Men. After the Restoration of Charles II in 1660, theatres re-opened, including Salisbury Court, and Samuel Pepys recorded in his diary seeing several plays performed at the theatre. <\/div>",
+
+      "image":"image url",
+      "v1":1630,
+      "v2":1666
+    },
+
+
+
+
+
+    "the_secound_blackfriars":
+  
+    {
+      "place":"Second Blackfriars<br>(1600-1642)",
+
+     "info":
+      "<div class='place'>Second Blackfriars<\/div> <div class='info'>The Second Blackfriars was built in the same 'liberty' where the Dominican monastery used to be, but in the upper floor of a different building from the first Blackfriars. James Burbage paid to convert the space into a theatre in 1596, hoping to use it as the winter indoor playing space for the Lord Chamberlain's Men. Neighbours in the Blackfriars precinct, wary of the types that theatres tended to attract (including thieves, prostitutes, and, most offensive to their sensibility, actors), filed a petition to stop Burbage's company from using the theatre. The Second Blackfriars sat vacant until 1600 when the Children of the Chapel began performing bitingly satirical, grotesquely violent or highly sexualized plays that were perhaps allowed to push these boundaries due to the ages of the young performers. In 1608, the King's Men took up residence and began using Blackfriars as its winter venue. It is probable that The Tempest was written specifically for the venue, and many other of Shakespeare's plays would have been performed indoors as well as in the Globe. The Blackfriars was notably different from the Globe, as the audience tended to be more upper-class, which was due to the pricier admission cost, and the audience would have been much smaller than the Globe.  <\/div>",
+
+      "image":"image url",
+      "v1":1600,
+      "v2":1642
+    },
+
+
+
+
+
+     "the_fortune":
+  
+    {
+      "place":"The Fortune<br>(1600-1621; 1623-1650s)",
+
+     "info":
+      "<div class='place'>The Fortune<\/div> <div class='info'>When Philip Henslowe learned of the Lord Chamberlain's Men moving to Bankside to build the Globe, he decided to abandon the crumbling Rose theatre and build a theatre in Shoreditch, which would become the Fortune in 1600. Unlike the circular Globe, the Fortune was built as a square, with each of the outer walls measuring eighty feet across and fifty-five feet within. There is a recorded incident in 1605 when the notorious woman Mary Frith performed on the Fortune stage (it is unknown whether the actors were complicit) despite the strict ban on women performers.  <\/div>",
+
+      "image":"image url",
+      "v1":1623,
+      "v2":1650
+    },
+
+
+
+     "the_red_bull":
+  
+    {
+      "place":"The Red Bull<br>(c. 1606-c. 1663)",
+
+     "info":
+      "<div class='place'>The Red Bull<\/div> <div class='info'>Like the Boar's Head, the Red Bull theatre was converted from its previous function as an inn to a playhouse. The Queen Anne's Men were the first playing company to occupy the Red Bull beginning in 1607, giving performances of plays by Christopher Marlowe, Thomas Dekker and John Webster, and they continued to perform at the venue until 1616, when their new manager Christopher Beeston moved the company to the Cockpit theatre. The Red Bull gained something of a reputation during the period for its rowdy, even violent audience members.  <\/div>",
+
+      "image":"image url",
+      "v1":1606,
+      "v2":1663
+    },
+
+
+
+
+
+
+
+  "bell_inn":
+  
+    {
+      "place":"The Bell Inn<br>(c. 1577-8-1590s)",
+
+     "info":
+      "<div class='place'>The Bell Inn<\/div><div class='info'>One of the four inns in operation in London's city limits, and like the Cross Keys, there is scant physical evidence that it hosted outdoor playing, like the Bull and the Bel Savage. The Bell Inn never hosted fencing prizes, and its yard was very narrow and long, making it ill-suited to playing. However, there is evidence of a hall on its upper floor which may have been used by visiting companies of players. While playing at the four inns was very popular in the 1580s and 1590s, by the end of Elizabeth's reign in 1603, playing has seemingly ceased at the inns. This was likely due to a wave of antitheatricalism, and the efforts of the city's authorities to suppress playing.<\/div>",
+
+      "image":"image url",
+      "v1":1590,
+      "v2":1590
+    },
+
+
+
+
+     "the_swan":
+  
+    {
+      "place":"The Swan<br>(1595-early 1620s)",
+
+     "info":
+      "<div class='place'>The Swan<\/div><div class='info'>One of the four inns in operation in London's city limits, and like the Cross Keys, there is scant physical evidence that it hosted outdoor playing, like the Bull and the Bel Savage. The Bell Inn never hosted fencing prizes, and its yard was very narrow and long, making it ill-suited to playing. However, there is evidence of a hall on its upper floor which may have been used by visiting companies of players. While playing at the four inns was very popular in the 1580s and 1590s, by the end of Elizabeth's reign in 1603, playing has seemingly ceased at the inns. This was likely due to a wave of antitheatricalism, and the efforts of the city's authorities to suppress playing.<\/div>",
+
+      "image":"image url",
+      "v1":1595,
+      "v2":1620
+    },
+
+
+
+     "the_rose":
+  
+    {
+      "place":"The Rose<br>(1587-?1606)",
+
+     "info":
+      "<div class='place'>The Rose<\/div><div class='info'>According to the diary of Philip Henslowe, a prominent figure in the world of early modern commercial theatre, the Rose was built in 1587, using an architectural plan modelled after the Theatre. However, Henslowe chose to build his new theatre in Southwark, on the south bank of the Thames in an area outside city jurisdiction called the \"Liberty of the Clink,\" known for once housing a notorious prison. The Rose most famously played host to performances from the Lord Admiral's Men, which counted Edward Alleyn as its most famous player, from 1594 to the summer of 1600. After Alleyn retired in 1598, the Globe opened on Bankside in 1599, and the Admiral's Men moved to the Fortune in 1600, the Rose experienced a steady decline. It it thought that it had been demolished by 1606. <\/div>",
+
+      "image":"image url",
+      "v1":1587,
+      "v2":1606
+    },
+
+
+
+
+     "newington_butts_off_map":
+  
+    {
+      "place":"Newington Butts<br>(c. 1575-mid 1590s)",
+
+     "info":
+      "<div class='place'>Newington Butts<\/div><div class='info'>The actor Jerome Savage opened this theatre some time between 1575 and 1577, making it one of the earliest purpose-built theatres in England. Savage built it as a venue for the company to which he belonged, the Lord Warwick's Men, and the company performed there until the early 1590s, when other theatres closer to the city became more popular among spectators. In 1594, while the Rose theatre was being renovated, Philip Henslowe records promoting a series of plays at Newington Butts in his diary, including what could possibly be Shakespeare's Taming of the Shrew and Titus Andronicus. By 1595, Newington Butts had apparently ceased functioning as a playhouse <\/div>",
+
+      "image":"image url",
+      "v1":1576,
+      "v2":1590
+    },
+
+
+
+
+
+     "the_houpe_off_map":
+  
+    {
+      "place":"The Hope<br>(1614-c. 1617; c. 1661)",
+
+     "info":
+      "<div class='place'>The Hope<\/div><div class='info'>Conceived by Philip Henslowe as a dual playing venue and bear-baiting arena, the Hope was built on a site in Southwark on Bankside called Beargarden, which hosted bear-baiting. It took nearly a year to construct, as the Globe was being rebuilt just a couple hundred yards away. When it was opened in 1614, the Lady Elizabeth's Men performed Ben Jonson's Bartholomew Fair, a play that describes the Hope as being exceedingly smelly. Although other acting companies took up residence in the Hope, the practice of sharing the theatre with animals was undesirable to the actors, who often left for other theatres after a few seasons. It was primarily used for animal-baiting by the time all the theatres were closed in 1642.<\/div>",
+
+      "image":"image url",
+      "v1":1617,
+      "v2":1661
+    },
+
+
+
+     "the_bell_savage_inn":
+  
+    {
+      "place":"The Bel Savage Inn<br>(before 1575-c. 1600)",
+
+     "info":
+      "<div class='place'>The Bel Savage Inn<\/div><div class='info'>One of the four inns that operated within the city limits of London that provided a playing space for several companies to perform while still being a operating inn for travellers. Inns like the Bel Savage may have served as the earliest winter venues for playing companies when it became too cold to perform in outdoor amphitheatres. The Bel Savage is mentioned in print first in 1575 in George Gascoigne's Glasse of Government and then in William Lambarde's Perambulation of Kent in 1576. The Bel Savage possessed two yards, and was also used to host fencing competitions. <\/div>",
+
+      "image":"image url",
+      "v1":1575,
+      "v2":1600
+    },
+
+
+
+
+     "cross_keys":
+  
+    {
+      "place":"The Cross Keys Inn<br>(c. 1577-8-1590s)",
+
+     "info":
+      "<div class='place'>The Bel Savage Inn<\/div><div class='info'>Another of the four inns operating in London in the late sixteenth-century. Like the other three inns, the Cross Keys hosted playing in the Queen's Revels. The Lord Strange's Men were known to perform at the Cross Keys in 1589 and in October 1594, the patron of the Lord Chamberlain's Men wrote to the Lord Mayor asking permission for his company to use the Cross Keys as a winter playing venue. This has led some early modern scholars to speculate that inns like the Cross Keys and the Bell might have hosted playing indoors in their hall as opposed to outside in a yard.  <\/div>",
+
+      "image":"image url",
+      "v1":1579,
+      "v2":1590
+    },
+
+
+     "the_bull":
+  
+    {
+      "place":"The Bull Inn<br>(c. 1577-1590s)",
+
+     "info":
+      "<div class='place'>The Bull Inn<\/div><div class='info'>One of the four inns that hosted playing companies in the city limits in the last decades of the sixteenth-century. Based on maps from the period, the Bull was larger than other surrounding inns, and possessed three separate yards, which made it an ideal location for playing companies who could perform even when regular business was taking place. Its northern yard, with dimensions roughly 45 feet by 35 feet, is comparable in size to an amphitheatre's yard.  Like the Bel Savage, it was a popular venue for fencing prizes. Evidence that playing at the Bull Inn took place outdoors can be found in Robert Greene's pamphlet The Third and Last Part of Conny-Catching (1592) which describes a young pickpocket entering through a central gate, and a standing audience moving freely to get a better view of the stage.  <\/div>",
+
+      "image":"image url",
+      "v1":1577,
+      "v2":1590
+    },
+
+
+
+
+
+
+
+    "the_curtain":
+  
+    {
+      "place":"The Curtain<br>(1577-mid 1620s)",
+
+     "info":
+      "<div class='place'>The Curtain<\/div><div class='info'>The Curtain opened in 1577, only 200 yards south of the Theatre in Shoreditch, which had opened the previous year. From 1597 to 1599, the Lord Chamberlain's Men held performances in the Curtain as they had lost the right to perform at the Theatre, and had not yet built the Globe. It is likely that during this time performances of Romeo and Juliet and Henry V were staged in the venue. In May 2016, an excavation of the site of the Curtain revealed that the playhouse was built in a rectangular shape, and not the previously surmised circular O-shape. The archaeological dig also revealed the presence of several props, including a bird whistle that may have been used as a kind of sound effect.  <\/div>",
+
+      "image":"image url",
+      "v1":1577,
+      "v2":1620
+    },
+
+
+
+     "the_theatre":
+  
+    {
+      "place":"The Theatre<br>(1576-1599)",
+
+     "info":
+      "<div class='place'>The Theatre<\/div><div class='info'>Located in the London suburb of Shoreditch, the Theatre was the brainchild of theatre impresario James Burbage, who received a loan from his brother-in-law John Brayne (Red Lion) in order to begin construction in 1576. After opening, several different playing companies took up residence over the next decade, including Leicester's Men, the Admiral's Men (of which James Burbage's son, Richard, was a member), and finally the Lord Chamberlain's Men in 1594. Shakespeare was a member of the Lord Chamberlain's Men at the time, and he performed alongside lead actor Richard Burbage and the comic actor Will Kempe at the Theatre until 1597 when a rent dispute led the Chamberlain's Men to dismantle the Theatre and rebuild it on the south bank as the Globe.   <\/div>",
+
+      "image":"image url",
+      "v1":1590,
+      "v2":1599
+    },
+
+
+
+     "the_boars_head":
+  
+    {
+      "place":"The Boar’s Head<br>(1598-1616)",
+
+     "info":
+      "<div class='place'>The Boar’s Head<\/div><div class='info'>The Boar's Head began its life as an inn, and was later re-modeled by Oliver Woodliffe into a playhouse in 1598. The leader of the Earl of Derby's Men, Robert Browne, was brought in to run the playhouse and perform with his company. Several other companies spent time performing at the Boar's Head, including the Earl of Worcester's Men and Prince Charles' Men. <\/div>",
+
+      "image":"image url",
+      "v1":1598,
+      "v2":1616
+    },
+
+
+     "the_red_lion":
+  
+    {
+      "place":"The Red Lion<br>(1567-after 1569)",
+
+     "info":
+      "<div class='place'>The Red Lion<\/div><div class='info'>This is thought to be the first of the 'public' amphitheatres, and was built in the suburbs of London and owned by John Brayne, the brother-in-law of theatre impresario James Burbage. Brayne and Burbage were among the very first businessmen to take the amphitheatre model, previously used for animal-bating, and adapt it for theatrical companies. The only information remaining of the physical layout of the Red Lion is derived from a court case, which reveals that the dimensions of the stage were five feet off the ground and 40 feet by 30 feet in span. The Red Lion undoubtedly served as a model for James Burbage when he built his own playhouse, known as the Theatre in 1576. <\/div>",
+
+      "image":"image url",
+
+      "v1":1567,
+      "v2":1569
+    }
+}
